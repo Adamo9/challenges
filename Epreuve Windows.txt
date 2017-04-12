@@ -1,0 +1,2 @@
+Epreuve Windows 3
+Pour créer l’épreuve, il a été utilisé une machine virtuelle Windows sous Virtual box. Pour modifier les shellbags, juste brancher une clé USB avec le dossier voulu, et attendre un peu que les shellbags soient modifiés. Chaque participant avait à sa disposition une machine virtuelle Windows. Son but était de retrouver le nom d’un dossier stocké sur une clé USB qui auparavant avait été branchée sur la fameuse machine virtuelle. Il suffisait d’utiliser des logiciels comme Windows ShellBag Parser (sbag) afin de remonter aux traces.
