@@ -1,0 +1,3 @@
+L’épreuve du Morse 1 
+Un exécutable, codé en python, reposait sur l’exécution de print et de sleep. Chaque participant récupérait un exécutable qui, une fois lancé, affichait des lignes en hexadécimal. Ils devaient découvrir deux intervalles différents lors de l’affichage des lignes. Un court intervalle court qui correspondait à un point et un intervalle long qui correspondait à un tiret. En faisant la correspondance avec un tableau morse, on obtenait alors les coordonnées géographiques d’un toit dans un parc d’attraction, en Australie, sur lequel est écrit Big Brother. Big Brother était la clé qui permettait de passer à l’épreuve suivante.
+
