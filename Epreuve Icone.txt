@@ -1,0 +1,2 @@
+Epreuve de l’icône 4
+Dans cette première étape, 2 fichiers : un fichier texte et un fichier ReadMe dans lequel se trouvait le sujet de l’épreuve. La partie 1 consistait à retrouver le mot de passe de l’épreuve 1. Il était dissimulé dans le fichier epreuve1.txt. Ce dernier est en réalité non pas dans le contenu du fichier texte mais dans l’icône de celui-ci. Le mot de passe était : funnyh4ck.
